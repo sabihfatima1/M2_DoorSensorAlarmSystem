@@ -1,2 +1,2 @@
-                                                                 # Project Topic 
-                                                              Door Sensor Alarm System
+# Project Topic
+Door Sensor Alarm System
