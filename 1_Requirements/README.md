@@ -21,7 +21,7 @@ This project uses simple functions.It is very easy to work.
 This Project is used in any entry point in home and some other front door.
 
 ## How
- By using File atmega328P microcontroller it can be achieved.
+ By using atmega328P microcontroller it can be achieved.
  This Project requires a lost cost of development.
  
  ##Detail requirements
