@@ -4,7 +4,7 @@ Door Sensor Alarm System is a project that enables to sense the Door is open or 
 This is implemented in C . C is a platform independent language.Its created project can be used on a standalone machine.
 
 # OBJECTIVE
-The objective is to construction an electronic circuit that acts as a watch dog.It is used to protect a door when it is ON;It sounds an alarm when the door is open. Alerting you if someone opens, or tries to open , the doors in your home.
+The objective is to construction an electronic circuit that acts as a watch dog.It is used to protect a door when it is ON. It sounds an alarm when the door is open. Alerting you if someone opens, or tries to open , the doors in your home.
 
 # 4W and 1H
 
@@ -12,7 +12,7 @@ The objective is to construction an electronic circuit that acts as a watch dog.
 Anyone can use Door Alarm System in home, in hospital, in any organization.
 
 ## What
-Door Alarm System can be very effective home security devic.
+Door Alarm System can be very effective home security device.
 
 ## Why
 This project uses simple functions.It is very easy to work.
