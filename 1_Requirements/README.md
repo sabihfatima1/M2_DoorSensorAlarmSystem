@@ -27,6 +27,7 @@ This Project is used in any entry point in home and some other front door.
  ##Detail requirements
 # High Level Requirements
   In this Project we use a atmega328P microcontroller , a LED , an audio out device and a resistor.
+  
   1.This  can be use in door of a car. If door of a car is open then this buzzer will produce sound and LED will blink.
   2.This can be use in a home for security purpose.  alerting you if someone tries to open the door.
 
